@@ -1,0 +1,57 @@
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csprojAssemblyReference.cache
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csproj.CopyComplete
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csprojAssemblyReference.cache
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csproj.CopyComplete
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\TonyCompartido\Romsoft112020\03 Codigo Fuente\GestionClinicas\BackEnd\Romsoft.GESTIONCLINICA\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csprojAssemblyReference.cache
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csproj.CopyComplete
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\04. Software\Romsoft\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.dll
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.dll
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Common.pdb
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Romsoft.GESTIONCLINICA.Entidades.pdb
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csprojAssemblyReference.cache
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csproj.CoreCompileInputs.cache
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.csproj.CopyComplete
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.dll
+D:\ROMSOFT-GIT\BackEnd\RomsoftBackEnd\Romsoft.GESTIONCLINICA.DataAccess\obj\Debug\Romsoft.GESTIONCLINICA.DataAccess.pdb
